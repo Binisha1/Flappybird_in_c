@@ -1,0 +1,6 @@
+![image](https://github.com/Binisha1/Flappybird_in_c/assets/83804423/9209aae5-0006-4c28-b764-8aae508f44d5)
+![image](https://github.com/Binisha1/Flappybird_in_c/assets/83804423/5fcbd121-8156-45c0-9815-e42af84a0ac8)
+![image](https://github.com/Binisha1/Flappybird_in_c/assets/83804423/51ed0bb8-d519-4b49-b056-a9208e0aad0a)
+![image](https://github.com/Binisha1/Flappybird_in_c/assets/83804423/f3e0cd05-b5f2-4afd-88c4-92ae99a19243)
+![image](https://github.com/Binisha1/Flappybird_in_c/assets/83804423/3d5d1798-ae01-45fc-ae50-d39dc881797a)
+![image](https://github.com/Binisha1/Flappybird_in_c/assets/83804423/c6fd21e8-4811-4afe-ab92-d0b1f7be1344)
